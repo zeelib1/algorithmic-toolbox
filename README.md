@@ -1,2 +1,2 @@
 # algorithmic-toolbox
-Part of Coursera Algoriths course
+Part of Coursera Algorithms course
